@@ -1,0 +1,8 @@
+{
+  "name": "RS AI VIDEO EDITOR PRO",
+  "description": "Professional multi-track video editing studio and complete Kotlin, Jetpack Compose, FFmpeg, and Android Media APIs project workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
